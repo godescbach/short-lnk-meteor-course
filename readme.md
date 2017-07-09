@@ -2,4 +2,4 @@
 
 ## Author: Tom Mostyn
 
-Description:  Short Link application using meteor and react framework.
+Description:  Short Link application using meteor and react framework for my new course.
